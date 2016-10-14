@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "482973051049",
+    "project_id": "api-project-482973051049"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482973051049:android:05dcec8c937627e2",
+        "android_client_info": {
+          "package_name": "com.noida.gcmserverexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOppZM7dC0_bVv5vob25u6ETtiSC3QmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
